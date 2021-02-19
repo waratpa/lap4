@@ -1,0 +1,17 @@
+body{
+    margin-left: 45%;
+}
+table{
+    border: 20px solid gray;
+}
+td{
+    width: 100px;
+    height: 100px;
+}
+.black{
+    background-color: black;
+}
+
+.white{
+    background-color: white;
+}
